@@ -1,0 +1,31 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    { "name": "app_name", "value": "IME Switcher" },
+    { "name": "tab_system", "value": "Sys" },
+    { "name": "tab_list", "value": "IME" },
+    { "name": "tab_panel", "value": "Panel" },
+    { "name": "open_dialog", "value": "IME" },
+    { "name": "switch_success", "value": "OK" },
+    { "name": "switch_failed", "value": "Fail" },
+    { "name": "qwerty_preview", "value": "QWERTY" },
+    { "name": "handwriting_preview", "value": "Hand" },
+    { "name": "voice_preview", "value": "Voice" },
+    { "name": "t9_preview", "value": "T9" },
+    { "name": "show_panel", "value": "Show" },
+    { "name": "panel_fixed", "value": "Fix" },
+    { "name": "panel_floating", "value": "Float" },
+    { "name": "ime_permission_reason", "value": "Used to switch input methods" }
+  ]
+}

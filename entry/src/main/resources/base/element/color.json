@@ -1,0 +1,12 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#0D0D0D" },
+    { "name": "bg_primary", "value": "#0D0D0D" },
+    { "name": "card_bg", "value": "#1E1E1E" },
+    { "name": "card_selected", "value": "#0D47A1" },
+    { "name": "text_primary", "value": "#FFFFFF" },
+    { "name": "text_secondary", "value": "#9E9E9E" },
+    { "name": "accent", "value": "#007AFF" },
+    { "name": "accent_dark", "value": "#0051B3" }
+  ]
+}
